@@ -1,4 +1,4 @@
-### Hi there, I'm Cedrine 👋
+### Hi there, I'm Cédrine 👋
 
 - 🔭 I love coding, running and photography 
 - 🌱 I'm currently polishing my portfolio
