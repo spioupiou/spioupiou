@@ -1,7 +1,7 @@
 ### Hi there, I'm Cédrine 👋
 
-- 🔭 I love coding, running and photography 
-- 🌱 I'm currently polishing my portfolio
+- 🔭 I love coding, reading and photography 
+- 🌱 I'm currently looking for a full stack web developer role
 - 📫 Where to find me: 
   - [LinkedIn](https://www.linkedin.com/in/cedrinemonnet/)
   - [Instagram](https://www.instagram.com/spioupiou/)
